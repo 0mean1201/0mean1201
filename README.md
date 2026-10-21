@@ -1,9 +1,3 @@
-# Hi there, I'm Youngmin Jeon 👋
-
-**AI undergraduate solving problems with financial data**
-
-<br>
-
 ## 🙋 About Me
 
 - B.S. student in Artificial Intelligence at Gachon University
