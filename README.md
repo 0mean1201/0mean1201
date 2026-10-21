@@ -28,17 +28,6 @@
 
 <br>
 
-## 📂 Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**DiscordBot**](https://github.com/0mean1201/DiscordBot) | A notification bot that crawls Gachon University academic, department, and extracurricular notices daily and posts new ones to Discord. Filters by keyword, removes duplicates, and adds new sites through a single config file | Python, GitHub Actions |
-| [**FinLog**](https://github.com/0mean1201/FinLog) | A personal finance app that manages spending and investment portfolios in one place. Pulls live quotes via KIS Open API and benchmarks portfolio performance against KOSPI, S&P 500, and NASDAQ | Flutter, Riverpod, Drift (SQLite) |
-| [**Phos**](https://github.com/0mean1201/26-1-MP-Phos) | A photo-booth app inspired by Korean four-cut photo booths (team project). Uses on-device FaceNet embeddings to group and search photos by person, without sending raw face images to the server | Flutter, TFLite, Express.js, MariaDB |
-| [**Dormeet**](https://github.com/0mean1201/Dormeet) | A roommate matching app for dormitory residents | |
-
-<br>
-
 ## 📫 Contact
 
-- Email: your.email@example.com
+- Email: 1201brian@gmail.com
